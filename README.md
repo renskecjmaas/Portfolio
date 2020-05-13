@@ -12,4 +12,4 @@ Ik ben Renske Maas, 20 jaar en ik studeer Communication and Multimedia Design op
   <li>Opdracht javascript website Blok 4</li></a>
 </ul>
 
-<a href="https://github.com/renskecjmaas"><img src="GitHub-Mark.png" alt="GitHub logo"></a>
+<a href="https://github.com/renskecjmaas"><img src="GitHub-Mark2.png" alt="GitHub logo"></a>
