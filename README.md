@@ -11,3 +11,5 @@ Ik ben Renske Maas, 20 jaar en ik studeer Communication and Multimedia Design op
   <a href="http://student-1929712maas.mamdt.com/12-whole-task/pitch.pdf"><li>Wholetask blok 2</li></a>
   <li>Opdracht javascript website Blok 4</li></a>
 </ul>
+
+<a href="https://github.com/renskecjmaas"><img src="GitHub-Mark.png" alt="GitHub logo"></a>
