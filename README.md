@@ -2,7 +2,7 @@
 Ik ben Renske Maas, 20 jaar en ik studeer Communication and Multimedia Design op Zuyd Hogeschool in Maastricht. Ik geniet ervan als ik creatief bezig kan zijn; digitaal en analoog. Ook kan ik erg genieten van gamen, lezen en wandelen.
 <p>This is me :)</p>
 
-<img src="Renskecjmaas.jpg" alt="Renske Maas">
+<a href="https://www.tumblr.com/blog/mrsdarcy-ofpemberley"><img src="Renskecjmaas.jpg" alt="Renske Maas"></a>
 
 <P>Op deze pagina vind je een aantal opdrachten en projecten die ik heb gemaakt.</p>
 
